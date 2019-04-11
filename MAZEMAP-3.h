@@ -28,13 +28,3 @@ private:
 };
  
 #endif
-
-st
-
-gygy
-
-stst
-
-gygygyg
-
-ststst
